@@ -9,5 +9,6 @@
 # Setup
 
 1. Open Visual Studio Code and in the terminal, clone the repository using | git clone https://github.com/TGH75972/Virtual-Mouse |
-2. Open the Vmouse.py python file and let it run!
+2. On the VS Code terminal install the required modules using |pip install -r requirements.txt|
+3. Open the Vmouse.py python file and let it run!
 
