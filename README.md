@@ -1,17 +1,13 @@
-# ZoomBrute.py
-### A program that automatically tests random Zoom meeting codes,  to brute force meetings.
-This is just a quick script i made that generates either a random 9 or 10 char number, and tries to use it on zoom.
-If it works, it'll tell you.
+# Vmouse.py
 
-![Example gif](https://hexima.pw/example.gif)
+# Requirements 
 
-# Requirements
-1. You need to have the newest public version of chrome installed
-1. You need selenium installed. You can do so by typing `pip install selenium` in cmd or powershell.
+1. Installation of cv2 module is required
+2. Installation of mediapipe module is required
+3. Installation of pyautogui module is required
 
-# Usage
-1. Download the python 3.8 from the microsoft store``
-1. Open powershell (or cmd) and `CD` to the directory where main.py is located
-1. Type in `python main.py` to start the script
-1. Enter a proxy if needed, if not, just press enter without writing anything.
-1. Done! The program will automatically try different codes, and put the working ones inside working.txt
+# Setup
+
+1. Open Visual Studio Code and in the terminal, clone the repository using | git clone https://github.com/TGH75972/Virtual-Mouse |
+2. Open the Vmouse.py python file and let it run!
+
